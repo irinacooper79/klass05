@@ -62,4 +62,3 @@ public Static void addBook (Book book){
             this.books = new Book [LibrarySize];
         }
     }
-        }
